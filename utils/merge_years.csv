@@ -1,0 +1,36 @@
+event_country,year,incidents,ISO3,Country,criminality_average,resilience_average,region,country.x,population,incidents_per_capita,country.y,cpi_score
+Argentina,2021,1,ARG,Argentina,4.38,6.33,Asia/Other,Argentina,45312282,0.02206907169230629,Argentina,38
+Bolivia,2021,1,BOL,Bolivia,4.3,4.88,Latin America,Bolivia,11937369,0.08377055279098769,Bolivia,30
+Brazil,2021,26,BRA,Brazil,6.5,5.04,Latin America,Brazil,209550291,0.12407522736391716,Brazil,38
+Brazil,2023,25,BRA,Brazil,6.77,4.92,Latin America,Brazil,211140731,0.11840443992779394,Brazil,36
+Chile,2021,1,CHL,Chile,4.6,6.42,Asia/Other,Chile,19456323,0.051397173042408886,Chile,67
+Colombia,2021,33,COL,Colombia,7.66,5.83,Latin America,Colombia,51188174,0.6446801560063463,Colombia,39
+Colombia,2023,79,COL,Colombia,7.75,5.63,Latin America,Colombia,52321152,1.5099055922927689,Colombia,40
+Democratic Republic of the Congo,2021,8,COD,"Congo, Dem. Rep.",7.75,2.29,Asia/Other,Democratic Republic of Congo,99148930,0.0806867003002453,Democratic Republic of the Congo,19
+Democratic Republic of the Congo,2023,2,COD,"Congo, Dem, Rep,",7.35,2.38,Asia/Other,Democratic Republic of Congo,105789733,0.018905426295007285,Democratic Republic of the Congo,20
+Ecuador,2021,3,ECU,Ecuador,6.25,5.71,Latin America,Ecuador,17682454,0.169659708997405,Ecuador,36
+Ecuador,2023,1,ECU,Ecuador,7.07,4.88,Latin America,Ecuador,17980079,0.055617108245186245,Ecuador,34
+Gabon,2021,1,GAB,Gabon,4.9,3.17,Africa,Gabon,2376729,0.42074632825197994,Gabon,31
+Ghana,2023,1,GHA,Ghana,5.8,5.46,Africa,Ghana,33787916,0.029596379960220097,Ghana,43
+Guatemala,2021,4,GTM,Guatemala,6.48,4.42,Latin America,Guatemala,17598652,0.22729013563084263,Guatemala,25
+Guatemala,2023,4,GTM,Guatemala,6.6,4.08,Latin America,Guatemala,18124841,0.2206915911703722,Guatemala,23
+Honduras,2021,8,HND,Honduras,6.98,3.92,Latin America,Honduras,10289881,0.7774628297450671,Honduras,23
+Honduras,2023,18,HND,Honduras,7.05,4.08,Latin America,Honduras,10644853,1.6909580620793918,Honduras,23
+India,2021,14,IND,India,5.53,5.25,Asia/Other,India,1414203896,0.009899562601685832,India,40
+India,2023,5,IND,India,5.75,5.42,Asia/Other,India,1438069597,0.0034768831845347747,India,39
+Indonesia,2023,3,IDN,Indonesia,6.85,4.25,Asia/Other,Indonesia,281190068,0.01066894012771461,Indonesia,34
+Kenya,2021,1,KEN,Kenya,6.95,5.21,Africa,Kenya,53219167,0.018790222703034792,Kenya,30
+Mexico,2021,54,MEX,Mexico,7.56,4.46,Latin America,Mexico,127648151,0.4230378550489149,Mexico,31
+Mexico,2023,18,MEX,Mexico,7.57,4.21,Latin America,Mexico,129739761,0.13873927207249906,Mexico,31
+Nicaragua,2021,15,NIC,Nicaragua,6.06,2.46,Latin America,Nicaragua,6644745,2.257422971084669,Nicaragua,20
+Nicaragua,2023,10,NIC,Nicaragua,5.72,2.08,Latin America,Nicaragua,6823619,1.4654980004012534,Nicaragua,17
+Panama,2023,4,PAN,Panama,6.98,4.67,Latin America,Panama,4458758,0.897110809781558,Panama,35
+Paraguay,2023,2,PRY,Paraguay,7.52,3.42,Latin America,Paraguay,6844150,0.29222036337602186,Paraguay,28
+Peru,2021,7,PER,Peru,6.35,4.58,Latin America,Peru,33155883,0.2111239203009614,Peru,36
+Peru,2023,4,PER,Peru,6.4,4.38,Latin America,Peru,33845616,0.11818369622819097,Peru,33
+Philippines,2021,19,PHL,Philippines,6.84,4.13,Asia/Other,Philippines,113100947,0.1679915200002702,Philippines,33
+Philippines,2023,17,PHL,Philippines,6.63,4.21,Asia/Other,Philippines,114891199,0.14796607701865833,Philippines,34
+Rwanda,2023,1,RWA,Rwanda,3.6,5.54,Africa,Rwanda,13954473,0.07166160986516652,Rwanda,53
+United States of America,2023,1,USA,United States,5.67,7.13,Asia/Other,United States,343477330,0.002911400295326623,United States of America,69
+Venezuela,2021,4,VEN,Venezuela,6.64,1.92,Latin America,Venezuela,28237830,0.14165394437178777,Venezuela,14
+Venezuela,2023,1,VEN,Venezuela,6.72,1.88,Latin America,Venezuela,28300861,0.03533461402464046,Venezuela,13
